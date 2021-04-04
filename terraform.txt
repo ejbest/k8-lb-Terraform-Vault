@@ -1,0 +1,10 @@
+2021/04/03 13:52:35 [INFO] Terraform version: 0.14.6  
+2021/04/03 13:52:35 [INFO] Go runtime version: go1.15.6
+2021/04/03 13:52:35 [INFO] CLI args: []string{"/usr/local/bin/terraform", "init"}
+2021/04/03 13:52:35 [DEBUG] Attempting to open CLI config file: /Users/ej/.terraformrc
+2021/04/03 13:52:35 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2021/04/03 13:52:35 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2021/04/03 13:52:35 [DEBUG] ignoring non-existing provider search directory /Users/ej/.terraform.d/plugins
+2021/04/03 13:52:35 [DEBUG] ignoring non-existing provider search directory /Users/ej/Library/Application Support/io.terraform/plugins
+2021/04/03 13:52:35 [DEBUG] ignoring non-existing provider search directory /Library/Application Support/io.terraform/plugins
+2021/04/03 13:52:35 [INFO] CLI command args: []string{"init"}
